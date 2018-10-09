@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: anathakur
+Build-Jdk: 10.0.2
+Implementation-Title: spring-boot-hello-world-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring-boot-hello-world-client
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ hello-world-client/
+Created-By: Maven Integration for Eclipse
+
